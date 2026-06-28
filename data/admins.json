@@ -1,0 +1,10 @@
+[
+    {
+        "id": "ADM001",
+        "name": "Main Admin",
+        "username": "admin",
+        "password": "$2y$10$v.f9XxzhhFkQJwWTmbD8AOlgmpK3r9rohHgK3kOje6FE4f3xmTpAi",
+        "created_at": "28 Jun 2026",
+        "updated_at": "28 Jun 2026, 04:52 PM"
+    }
+]
